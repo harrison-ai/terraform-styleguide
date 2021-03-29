@@ -74,6 +74,6 @@ As buckets are globally unique, it is suggested that bucket names are prepended 
 
 Full example:
 ```
-s3://annalise-ai-example-bucket-prod
+s3://company-example-bucket-prod
 
 ``````
