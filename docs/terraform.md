@@ -44,9 +44,9 @@ so **aws_nat_gateway** should be named this and **aws_route_table** should have 
 
 4. Include the count argument inside resource blocks as the first argument at the top and separate it by a newline after it.
 
-```
-**Good:**
 
+**Good:**
+```
 resource "aws_route_table" "public" {
   count = 2
 
